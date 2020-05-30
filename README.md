@@ -27,7 +27,7 @@ webpack:
 -> Front-End
 * 2018-XX-XX | D | https://github.com/CrazyFork/eruda
 * 2020-05-30 | D | https://github.com/CrazyFork/mvvm
- * 一个简易的vue实现, 可以了解mvvm是个大概什么东西. 简单来说就是 view-model 自动负责了 view 和 model 之间的自动双向同步
+  * 一个简易的vue实现, 可以了解mvvm是个大概什么东西. 简单来说就是 view-model 自动负责了 view 和 model 之间的自动双向同步
 
 
 todo:
