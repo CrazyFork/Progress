@@ -33,4 +33,5 @@ webpack:
 todo:
 * CrazyFork/slab
 * https://github.com/CrazyFork/xprofiler, 读完redis之后读这个
-
+* https://github.com/CrazyFork/telegraf, APM 中用来采集数据的
+* statsd, 到时候也看下, 和telegraf的关系是啥.
