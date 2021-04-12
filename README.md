@@ -37,6 +37,10 @@ webpack:
 	* 
 * 
 
+-> 程序监控
+* 2021-04-12 | D | https://github.com/CrazyFork/statsd
+
+
 todo:
 * CrazyFork/slab
 * https://github.com/CrazyFork/xprofiler, 读完redis之后读这个
