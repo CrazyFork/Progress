@@ -19,6 +19,7 @@ P        // in progress
 
 * 2019-10-04 |D| https://github.com/CrazyFork/hessian.js
   * hessian 二进制协议的序列化的一个实现, 用于 nodejs 和 java 之间的SOA服务调用
+* 2021-11-30 |D| https://github.com/CrazyFork/node-http-proxy
 
 webpack:
 * 2019-XX-XX | D | https://github.com/CrazyFork/webpack-dev-middleware
