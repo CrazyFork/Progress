@@ -40,6 +40,9 @@ P        // in progress
   * a bison like parser generator written in js
 * [2021-04-07 2021-04-12] | D | https://github.com/CrazyFork/scss-parser
 * [2022-07 2022-09]| D | https://github.com/CrazyFork/jison-lex
+    * stack lexer is a very import feature for a lexer
+* [2022-11]|P|https://github.com/crazyfork/handlebars.java
+    * a handlebar lib written in java.
 
 ## 程序监控
 * 2021-04-12 | D | https://github.com/CrazyFork/statsd
