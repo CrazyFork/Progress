@@ -43,6 +43,8 @@ P        // in progress
     * stack lexer is a very import feature for a lexer
 * [2022-11]|P|https://github.com/crazyfork/handlebars.java
     * a handlebar lib written in java.
+* [2022-12]|D|https://github.com/CrazyFork/lust
+    * a simple lua virtual machine implementation
 
 ## 程序监控
 * 2021-04-12 | D | https://github.com/CrazyFork/statsd
