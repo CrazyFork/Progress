@@ -44,12 +44,28 @@ P        // in progress
 * [2022-11]|P|https://github.com/crazyfork/handlebars.java
     * a handlebar lib written in java.
 
-## 程序监控
+## AMP, tracing, monitoring
 * 2021-04-12 | D | https://github.com/CrazyFork/statsd
+* 2023-04-16 | D | https://github.com/CrazyFork/traceo 
 
 
 todo:
+
+### browser & css engine
+* https://github.com/litehtml/litehtml
+* layout engine - https://github.com/DioxusLabs/taffy
+* https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/
+* https://github.com/treeform/fidget
+    * https://github.com/elbow-jason/nim-cheat-sheet
+
+
+### parser
+
+
+
 * CrazyFork/slab
+* 
+* 
 * https://github.com/CrazyFork/xprofiler, 读完redis之后读这个
 * https://github.com/CrazyFork/telegraf, APM 中用来采集数据的
 * statsd, 到时候也看下, 和telegraf的关系是啥.
